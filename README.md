@@ -23,7 +23,7 @@ GITHUB_TOKEN=your_github_token_here
 ```
 2. Run CLI:
 ```bash
-python mash.py https://github.com/owner/repo
+python mash.py https://github.com/kleervoyans/mash
 ```
 3. Or launch web demo:
 ```bash
