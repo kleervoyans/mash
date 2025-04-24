@@ -1,0 +1,10 @@
+```
+PyGithub
+requests
+transformers
+torch
+sentencepiece
+click
+streamlit
+python-dotenv
+```
