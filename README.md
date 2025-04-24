@@ -1,5 +1,3 @@
-# mash
-```markdown
 # Mash
 
 Automatically generate a concise Markdown product sheet (“one-pager”) for any public GitHub repository.
